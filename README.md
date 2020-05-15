@@ -1,7 +1,7 @@
 
 ## RNAseq_pipline
 
-1.introduction /
+1.introduction \
 2.piplines
 3.QC
 4.trimming
