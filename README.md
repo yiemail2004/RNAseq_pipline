@@ -6,6 +6,6 @@
 3.QC \
 4.trimming \
 5.alignment \
-6.DE \
+6.DE
 
 
