@@ -1,4 +1,4 @@
-#general workflow
+###general workflow
 
 1.read quality examination and adapters identification;
   (fastqc,etc.)
