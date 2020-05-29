@@ -6,6 +6,6 @@
 3. quality control
 4. adapter trimming 
 5. alignment 
-6. DE
+6. DGE
 
 
